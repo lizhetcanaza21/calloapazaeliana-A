@@ -8,14 +8,14 @@
 }
 
 :root {
-    --color-primary: #ED4D1B;
-    --color-secondary: #FF9A3C;
+    --color-primary: #df5b99;
+    --color-secondary: #35c5b9;
     --color-black: #000;
-    --color-white: #fff;
+    --color-white: #cedd2e;
 }
 
 body {
-    background: linear-gradient(90deg, #ffE7D1 0%, #FFF2E6 100%);
+    background: linear-gradient(90deg, #29ce2c 0%, #52c2df 100%);
     padding: 0 1rem;
 }
 
